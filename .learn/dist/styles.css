@@ -1,0 +1,15 @@
+.orange-btn {
+	padding: 10px;
+	border-radius: 4px;
+	color: white;
+	border: 1px solid #ffffff;
+	background-color: rgb(255, 153, 51);
+    text-decoration: none;
+}
+
+.orange-btn:hover {
+	background-color: rgb(167, 89, 12);
+}
+
+
+/*# sourceMappingURL=styles.css.map*/

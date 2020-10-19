@@ -4,3 +4,11 @@ body {
 .rounded {
 	border-radius: 100%;
 }
+
+.image {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/3/3e/Pooh_Shepard1928.jpg);
+	background-position: center;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}

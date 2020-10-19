@@ -9,7 +9,17 @@ body {
 	color: blue;
 }
 
-ul li,
-ol li {
+ol {
 	color: green;
+}
+ol li:nth-child(2) {
+	background-color: green;
+}
+
+ul {
+	color: red !important;
+}
+
+tr:nth-child(odd) {
+	background-color: yellow;
 }

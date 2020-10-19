@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@700&display=swap");
+
 .myTitle {
-	/*your code here*/
+	font-family: "Baloo Tammudu 2", cursive;
 }
